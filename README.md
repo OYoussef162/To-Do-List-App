@@ -4,6 +4,9 @@
 A simple, modern, and responsive **To-Do List application** built with **HTML, SCSS, and vanilla JavaScript**.
 The app allows users to add, check, and delete tasks, with a clean UI and persistent storage.
 
+![App Preview](./assets/preview1.png)
+
+![App Preview](./assets/preview2.png)
 ---
 
 ## ✨ Features
@@ -14,6 +17,12 @@ The app allows users to add, check, and delete tasks, with a clean UI and persis
 * ✅ Responsive design & dark theme toggle
 * ✅ Tasks saved in local storage (persist between sessions)
 * ✅ “Empty list” message with illustration when no tasks exist
+
+---
+
+## 🌍 Live Demo
+
+👉 [Github User Search App](https://oyoussef162.github.io/Github-User-Search-App/)
 
 ---
 
