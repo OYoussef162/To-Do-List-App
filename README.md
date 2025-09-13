@@ -22,7 +22,7 @@ The app allows users to add, check, and delete tasks, with a clean UI and persis
 
 ## 🌍 Live Demo
 
-👉 [Github User Search App](https://oyoussef162.github.io/Github-User-Search-App/)
+👉 [To-Do List App](https://oyoussef162.github.io/To-Do-List-App/)
 
 ---
 
@@ -85,18 +85,6 @@ npx serve dist
 
 ---
 
-## 🖼️ Screenshots
-
-> Replace with your own screenshots later
-
-* **Main UI**
-  ![Main UI](./screenshots/main-ui.png)
-
-* **Empty List**
-  ![Empty State](./screenshots/empty-list.png)
-
----
-
 ## 🛠️ Built With
 
 * HTML5
@@ -106,10 +94,4 @@ npx serve dist
 
 ---
 
-## 📜 License
-
-This project is open source under the [MIT License](LICENSE).
-
----
-
-Would you like me to also **write a `LICENSE` file (MIT)** so your repo looks professional, or do you want to keep it private?
+✍️ **Instructor**: [almdrasa.com](https://almdrasa.com/?srsltid=AfmBOoq3b5z-4WOFb2eGxPfihotnY_9o2R6RGIPozGjctbwVtn8OiY9u)
